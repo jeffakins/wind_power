@@ -1,5 +1,5 @@
 # Powered by the Earth's Breath
-![](https://www.tuvsud.com/en/-/media/global/images/industries/energy/wind-power/ss-364049327-wind-power.jpg?h=365&w=1280&la=en&hash=73B3DCE49697E21CAFC8C236D8204B39)
+![](https://erepublic.brightspotcdn.com/dims4/default/e61204d/2147483647/strip/false/crop/4670x3000+0+0/resize/1486x955!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F01%2F8a%2F19eb46354206853cb37788374e41%2Fshutterstock-1454940068-1.jpg)
 - By Jeff Akins
 
 ## Project Goal
