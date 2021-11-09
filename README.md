@@ -6,3 +6,8 @@
 This is a personal project. Renewable energy is an important aspect for supplying humanity's electricity needs well into the future. Wind power is an essential component. Out of curiosity I wanted to know where the optimal locations are throughout the US for wind turbines and how much power could be generated. The dataset I started with is the Wind Integration National Dataset and can be found [here](https://data.openei.org/submissions/2).
 
 More to follow...
+
+Additional Links to the data:
+[Data Storage](https://www.nrel.gov/grid/wind-toolkit.html)
+[How to Implement](https://github.com/NREL/hsds-examples/blob/master/notebooks/01_WTK_introduction.ipynb)
+Map of Wind Farm [Locations](https://eerscmap.usgs.gov/uswtdb/viewer/#4.04/37.52/-94.96)
